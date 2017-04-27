@@ -17,10 +17,10 @@ export default class ReactNativeCv extends Component {
         return (
             <View style={styles.container}>
                 <Text style={styles.welcome}>
-                    Welcome to React Native!
+                    Welcome to React Native CV App!
                 </Text>
                 <Text style={styles.instructions}>
-                    To get started, edit index.android.js
+                    We are just getting started. To get started, edit index.android.js
                 </Text>
                 <Text style={styles.instructions}>
                     Double tap R on your keyboard to reload,{'\n'}
