@@ -35,3 +35,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+.idea/misc.xml
+.idea/modules.xml
+.idea/ReactNativeCv.iml
+.idea/sonarIssues.xml
+.idea/vcs.xml
+.idea/workspace.xml
